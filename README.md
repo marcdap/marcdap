@@ -7,5 +7,5 @@ Maybe some day I will surprise you with one, but at least now I have this very s
 ## 📬 Get in touch
 
 - CV: [marcdap.dev](https://marcdap.dev/)
-- LinkedIn: [[linkedin.com/in/marcdap](https://www.linkedin.com/in/marcdap/)](https://www.linkedin.com/in/marcdap/)
+- LinkedIn: [linkedin.com/in/marcdap](https://www.linkedin.com/in/marcdap/)
 - Email me: [hi@marcdap.dev](mailto:hi@marcdap.dev)
